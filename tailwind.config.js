@@ -99,8 +99,8 @@ module.exports = {
         "hot-pink": "#fd2d78",
       },
       fontFamily: {
-        display: ["Londrina Solid", "sans-serif"],
-        body: ["Unbounded", "sans-serif"],
+        display: ["Unbounded", "cursive"],
+        body: ["Unbounded", "cursive"],
       },
       fontSize: {
         "7xl": "5rem",
