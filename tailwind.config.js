@@ -100,7 +100,7 @@ module.exports = {
       },
       fontFamily: {
         display: ["Londrina Solid", "sans-serif"],
-        body: ["Poppins", "sans-serif"],
+        body: ["Unbounded", "sans-serif"],
       },
       fontSize: {
         "7xl": "5rem",
